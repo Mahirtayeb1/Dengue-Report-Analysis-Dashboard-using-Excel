@@ -16,23 +16,23 @@
 
 # 📌 Action Plan (Recommendations):
 
-##1. Targeted Awareness Campaigns
-Launch localized Dengue awareness programs in underdeveloped areas such as Jatrabari and Demra, focusing on early symptom recognition, hygiene practices, and the importance of timely check-ups.
+##1. Targeted Awareness Campaigns:
+        Launch localized Dengue awareness programs in underdeveloped areas such as Jatrabari and Demra, focusing on early symptom recognition, hygiene practices, and the importance of timely check-ups.
 
-##2. Mobile Health Clinics in Vulnerable Areas
-Deploy mobile check-up units or community screening camps in tinshed and informal housing zones to improve access to medical testing and encourage early diagnosis.
+##2. Mobile Health Clinics in Vulnerable Areas:
+        Deploy mobile check-up units or community screening camps in tinshed and informal housing zones to improve access to medical testing and encourage early diagnosis.
 
-##3. Focused Interventions for High-Risk Demographics
-Initiate health education and prevention programs targeted at females and adults aged 30–50, the most affected demographic group according to the data.
+##3. Focused Interventions for High-Risk Demographics:
+        Initiate health education and prevention programs targeted at females and adults aged 30–50, the most affected demographic group according to the data.
 
-##4. Community Health Ambassadors
-Train residents in buildings or formal housing — who already show higher check-up rates — to act as peer educators and outreach volunteers for nearby informal settlements.
+##4. Community Health Ambassadors:
+        Train residents in buildings or formal housing — who already show higher check-up rates — to act as peer educators and outreach volunteers for nearby informal settlements.
 
-##5. Public-Private Collaboration for Resource Distribution
-Work with local governments, health departments, and NGOs to provide mosquito nets, repellents, and organize environmental cleanup drives in high-risk neighborhoods.
+##5. Public-Private Collaboration for Resource Distribution:
+        Work with local governments, health departments, and NGOs to provide mosquito nets, repellents, and organize environmental cleanup drives in high-risk neighborhoods.
 
-##6. Digital Health Communication
-Use SMS campaigns, WhatsApp groups, and social media to disseminate real-time Dengue alerts, health tips, and testing center locations, ensuring wide outreach in urban areas.
+##6. Digital Health Communication:
+        Use SMS campaigns, WhatsApp groups, and social media to disseminate real-time Dengue alerts, health tips, and testing center locations, ensuring wide outreach in urban areas.
 
 
 
