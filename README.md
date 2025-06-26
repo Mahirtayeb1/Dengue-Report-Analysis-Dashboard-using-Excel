@@ -15,3 +15,75 @@
 
 
 ## Recommendations:
+#🗣️ 1. Targeted Awareness Campaigns
+📍 Jatrabari and Demra
+💡 Launch localized Dengue awareness programs focusing on:
+
+Early symptom recognition
+
+Hygiene and water management
+
+Importance of timely medical check-ups
+
+#🏥 2. Mobile Health Clinics in Vulnerable Areas
+🚐 Deploy mobile testing units in underdeveloped areas such as:
+
+Tinshed housing zones
+
+Informal settlements
+📈 Goal: Increase check-up rates and promote early diagnosis
+
+#👩‍👨‍ 3. Focused Interventions for High-Risk Demographics
+🎯 Target: Females and adults aged 30–50
+📋 Actions:
+
+Community workshops
+
+Workplace health drives
+
+Family-focused preventive programs
+
+#🏘️ 4. Community Health Ambassadors
+🤝 Identify residents of buildings/formal housing
+🌐 Train them as health ambassadors to:
+
+Promote check-ups
+
+Share prevention knowledge
+
+Influence nearby low-income areas
+
+#🧼 5. Public-Private Resource Distribution
+🔗 Collaborate with:
+
+🏛️ Local government
+
+🏥 Health departments
+
+🤝 NGOs
+📦 Distribute:
+
+Mosquito nets 🦟
+
+Repellents 🧴
+
+Cleaning kits 🧹
+🧽 Organize cleanup drives in hotspots
+
+📱 6. Digital Health Communication
+📲 Use:
+
+SMS alerts 📩
+
+WhatsApp groups 💬
+
+Social media (Facebook, YouTube, etc.) 📢
+🎯 Share:
+
+Real-time Dengue updates
+
+Prevention tips
+
+Nearby test center locations
+
+
