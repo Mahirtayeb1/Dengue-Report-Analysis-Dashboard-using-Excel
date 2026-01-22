@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 View Excel Dashboard:
+## 📊 View Interactive Excel Dashboard:
 - <a href= "https://github.com/Mahirtayeb1/Dengue-Report-Analysis-Dashboard-using-Excel/blob/main/Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG"> [Click here]</a>
 <img src="Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG" width="1000">
 ---
