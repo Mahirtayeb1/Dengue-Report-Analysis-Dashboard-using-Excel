@@ -1,3 +1,8 @@
+## 📊 View Interactive Excel Dashboard:
+- <a href= "https://github.com/Mahirtayeb1/Dengue-Report-Analysis-Dashboard-using-Excel/blob/main/Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG"> [Click here]</a>
+<img src="Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG" width="1000">
+---
+
 ## 🔍 Key Insights
 
 - An **interactive dashboard** was built using Pivot Tables and KPIs to effectively analyze and visualize Dengue patient data.  
@@ -8,11 +13,6 @@
 - **Dengue check-up rates were significantly higher among residents living in buildings**, suggesting greater health awareness or access to medical services.  
 - In contrast, individuals living in **tinshed or informal housing showed lower check-up rates**, yet exhibited a **higher rate of Dengue infection**, indicating a lack of early detection and health engagement in underprivileged areas.
 
----
-
-## 📊 View Interactive Excel Dashboard:
-- <a href= "https://github.com/Mahirtayeb1/Dengue-Report-Analysis-Dashboard-using-Excel/blob/main/Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG"> [Click here]</a>
-<img src="Dengu%20Report%20Analysis%20Dashboard%20with%20Excel.PNG" width="1000">
 ---
 
 ## 📌 Action Plan (Recommendations)
